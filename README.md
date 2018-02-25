@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/GrissomErick/Constructor-Hangman/blob/master/images/njshm.png?raw=true" alt="Project logo" width="50%"></img>
+<img src="https://github.com/GrissomErick/Constructor-Hangman/blob/master/images/njshm.png?raw=true" alt="Project logo"></img>
 </p>
 
 
@@ -13,7 +13,7 @@
 
 ## Features
 
-* Guess random word by entering a single character and press enter (Hint: [Justice League Movie Superheros](http://www.imdb.com/title/tt0974015/))
+* Guess random word by entering a single character and press enter (Hint: [Justice Movie League Superheros](http://www.imdb.com/title/tt0974015/))
 * Each incorrect letter displays progressive hangman stick figure and remaining incorrect attempts
 * Each character that is a correct will be displayed in the terminal
 * Each word allows 10 attempts to guess the correct word(s)
